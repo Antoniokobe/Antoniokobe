@@ -38,7 +38,7 @@ Meu objetivo é unir minha experiência analítica e estratégica com o poder da
 
 <br/><br/>
 
-### 🔥 Streak Stats (Opcional - Adicione após commits)
+### 🔥 Streak Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Antoniokobe&theme=tokyonight&hide_border=true" alt="streak" /></p>
 
