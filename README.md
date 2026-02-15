@@ -23,16 +23,16 @@ Meu objetivo é unir minha experiência analítica e estratégica com o poder da
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="GitHub Trophy" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Antoniokobe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" 
+    src="https://github-profile-trophy.vercel.app/?username=Antoniokobe&theme=chartreuse-dark&no-frame=false&no-bg=true&margin-w=4" 
   />
   <img 
     align="left" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoniokobe&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&hide=jupyter%20notebook,html" 
+    src="https://gprm.itsvg.in/api/top-langs?username=Antoniokobe&theme=chartreuse-dark&layout=compact&langs_count=8" 
   />
 </p>
 
@@ -40,9 +40,8 @@ Meu objetivo é unir minha experiência analítica e estratégica com o poder da
 
 ### 🔥 Streak Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Antoniokobe&theme=tokyonight&hide_border=true" alt="streak" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Antoniokobe&theme=chartreuse-dark" alt="streak" />
 
 ---
 
-**💼 Procuro oportunidades em Desenvolvimento de Softwares** 📩
-
+**💼 Procuro oportunidades em Desenvolvimento Full-Stack ou Data Analyst!** 📩
