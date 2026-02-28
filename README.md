@@ -44,4 +44,4 @@ Meu objetivo é unir minha experiência analítica e estratégica com o poder da
 
 ---
 
-**💼 Procuro oportunidades em Desenvolvimento Full-Stack ou Data Analyst!** 📩
+**💼 Procuro oportunidades em Desenvolvimento Full-Stack ** 📩
